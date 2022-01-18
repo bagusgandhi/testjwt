@@ -1,8 +1,8 @@
 POST http://localhost:4001/register
 
 {
-    "first_name" : "gandhi",
-    "last_name" : "pratama",
-    "email" : "gandhi@pratama.com",
+    "first_name" : "aldi",
+    "last_name" : "rehat",
+    "email" : "aldi@rehat.com",
     "pasword" : "pass123!@#"
 }
