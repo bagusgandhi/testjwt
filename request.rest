@@ -1,0 +1,8 @@
+POST http://localhost:4001/register
+
+{
+    "first_name" : "gandhi",
+    "last_name" : "pratama",
+    "email" : "gandhi@pratama.com",
+    "pasword" : "pass123!@#"
+}
